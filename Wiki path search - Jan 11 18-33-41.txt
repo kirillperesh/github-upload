@@ -1,0 +1,25 @@
+
+Number of links 		 to find this page 								 from this one 								 full path
+
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Acria_gossypiella 		 Acria_gossypiella  ->  Binomial_nomenclature  ->  Carl_Linnaeus  ->  Adolf_Hitler
+2 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Demon_Queen%27s_Enclave 		 Demon_Queen%27s_Enclave  ->  Dungeons_%26_Dragons_controversies  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/David_Charpentier_de_Cossigny 		 David_Charpentier_de_Cossigny  ->  Mauritius  ->  Slovenia  ->  Adolf_Hitler
+2 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Clair_Cooper 		 Clair_Cooper  ->  Slovenia  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Q-Max 		 Q-Max  ->  South_Korea  ->  Kim_Jong-il  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/National_Association_of_Educational_Broadcasters 		 National_Association_of_Educational_Broadcasters  ->  Federal_Communications_Commission  ->  Chain_Broadcasting  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Cliff_Arquette 		 Cliff_Arquette  ->  Burbank,_California  ->  Entrepreneur  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Thyca_sagamiensis 		 Thyca_sagamiensis  ->  Synonym_(taxonomy)  ->  Carl_Linnaeus  ->  Adolf_Hitler
+2 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Arturo_Casado 		 Arturo_Casado  ->  Erfurt,_Germany  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Apple_Island_(Massachusetts) 		 Apple_Island_(Massachusetts)  ->  Spanish%E2%80%93American_War  ->  Unification_of_Germany  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Battle_of_Summit_Point 		 Battle_of_Summit_Point  ->  Charles_Town,_West_Virginia  ->  Frank_Buckles  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Senga_Falls 		 Senga_Falls  ->  Japan  ->  Slovakia  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Rinoctes_nasutus 		 Rinoctes_nasutus  ->  IUCN_Red_List  ->  Time_(magazine)  ->  Adolf_Hitler
+3 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Takeover_Directive 		 Takeover_Directive  ->  EU_Directive  ->  Slovakia  ->  Adolf_Hitler
+2 	 https://en.wikipedia.org/wiki/Adolf_Hitler 	 https://en.wikipedia.org/wiki/Georg_Mengel 		 Georg_Mengel  ->  Bamberg  ->  Adolf_Hitler
+
+	Total number of urls found: 1467
+	Total number of pages analyzed: 10            
+	Number of attempts: 15
+	Average number of links: 2.7333333333333334
+
+	Time Elapsed: 251.2987944s
